@@ -7,6 +7,8 @@ To get started with the project, follow these steps:
   ```bash
   git clone https://github.com/muhammetyigit/RecipeBookApp.git
   open RecipeBookApp.xcodeproj
+
+## 📸 Screenshots
 <p align="center">
   <img src="https://github.com/muhammetyigit/RecipeBookApp/blob/main/gif1.gif?raw=true" alt="RecipeBookApp GIF 1" width="500"/>
   <br><br>
